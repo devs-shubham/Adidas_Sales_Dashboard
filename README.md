@@ -1,4 +1,4 @@
-👟 Adidas Sales Analysis Dashboard – Power BI
+
 📌 Project Title
 
 Adidas Sales Analysis Dashboard using Power BI
@@ -98,7 +98,9 @@ State-wise sales distribution
 Product-wise sales contribution
 Retailer-wise sales performance
 Pricing and operating margin
+
 📷 Dashboard Preview
+https://github.com/devs-shubham/Adidas_Sales_Dashboard/blob/main/Adidas_sales_dashboard_snapshot.png
 
 
 
